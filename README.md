@@ -62,4 +62,4 @@ The most important parameter for measuring one of these model's performance is t
 
 In summary, while there were similar results produced by five of the six models, the Ensemble AdaBoost Classifier Model outperformed the rest both overall and on the most critical measure. As such, I recommend using this model while accumulating more data to train the model further and improve our predictions. 
 
-![Model Comparison ](output/comparison.png)
+![Model Comparison ](output/m_comparison.png)
